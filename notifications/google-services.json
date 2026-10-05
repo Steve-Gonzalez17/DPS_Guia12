@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778836977286",
+    "project_id": "dpsguia12",
+    "storage_bucket": "dpsguia12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778836977286:android:61b4ff045eecc6f20fd307",
+        "android_client_info": {
+          "package_name": "com.stevegonzalez17.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9cwb5sjwRur78WKcjws8ZHLwSDiNnTQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
